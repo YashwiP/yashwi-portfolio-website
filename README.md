@@ -1,78 +1,91 @@
-<<<<<<< HEAD
-# React + TypeScript + Vite
+# Yashwi Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal cybersecurity portfolio website.
 
-Currently, two official plugins are available:
+This website showcases my technical expertise, research projects, professional experience, and hands-on security engineering work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio is built using:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Git & GitHub
+- Deployed with Vercel (Production)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 👩‍💻 About Me
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+Cybersecurity Researcher & AI Security Enthusiast.
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+Focused on:
+- Threat Detection Engineering  
+- SOC Automation  
+- Web Security & OWASP Defense  
+- AI-Assisted Phishing Detection  
+- Security Tooling & Playbooks  
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+CompTIA Security+ Certified  
+ICSETI 2026 Research Publication  
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 📂 Featured Projects
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-=======
-# yashwi-portfolio-website
-This is my personal portfolio website built to present my projects, technical skills, and professional background. It includes featured projects, an about section, and contact information. The goal of this website is to create a clean, responsive, and user-friendly platform to showcase my work.
->>>>>>> 40f53cdf7175849c47b58dcd9f5ec0d801e7317c
+### 🔐 AI-Assisted Phishing Detection System
+Research-driven ML/NLP system analyzing the evolution of phishing from grammar-based attacks to AI-generated behavioral mimicry.
+
+**Tech Used:** Python, NLP, Machine Learning, spaCy
+
+---
+
+### 🛡 SQL Injection Defense & Web Security System
+Engineered a layered SQL injection defense framework using parameterized queries and OWASP-aligned mitigation strategies.
+
+**Tech Used:** Python, MySQL, OWASP, Web Security
+
+---
+
+### ⚙ SOC Automation (Wazuh + Shuffle + GLPI)
+Automated incident detection and response workflows by integrating SIEM, SOAR, and ITSM platforms via REST API-based playbooks.
+
+**Tech Used:** Wazuh, Shuffle, GLPI, REST APIs
+
+---
+
+## 📄 Resume
+Resume download is available directly from the portfolio website.
+
+---
+
+## 🌍 Deployment
+
+This website is deployed using Vercel.
+Live URL:
+(Will be added after deployment)
+
+---
+
+## 📬 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yashwi-pandey/
+- GitHub: https://github.com/YashwiP
+- Email: pandeyyashwii@gmail.com
+
+---
+
+## 📌 Future Improvements
+
+- Blog section for security research
+- Case study breakdowns of projects
+- Dark/light theme toggle
+- Performance optimizations
+- Additional AI security experiments
+
+---
+
+© 2026 Yashwi Pandey. All rights reserved.

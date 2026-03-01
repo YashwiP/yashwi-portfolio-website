@@ -6,7 +6,7 @@ This website showcases my technical expertise, research projects, professional e
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 This portfolio is built using:
 - React
@@ -18,7 +18,7 @@ This portfolio is built using:
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Cybersecurity Researcher & AI Security Enthusiast.
 
@@ -34,35 +34,35 @@ ICSETI 2026 Research Publication
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🔐 AI-Assisted Phishing Detection System
+### AI-Assisted Phishing Detection System
 Research-driven ML/NLP system analyzing the evolution of phishing from grammar-based attacks to AI-generated behavioral mimicry.
 
 **Tech Used:** Python, NLP, Machine Learning, spaCy
 
 ---
 
-### 🛡 SQL Injection Defense & Web Security System
+### SQL Injection Defense & Web Security System
 Engineered a layered SQL injection defense framework using parameterized queries and OWASP-aligned mitigation strategies.
 
 **Tech Used:** Python, MySQL, OWASP, Web Security
 
 ---
 
-### ⚙ SOC Automation (Wazuh + Shuffle + GLPI)
+### SOC Automation (Wazuh + Shuffle + GLPI)
 Automated incident detection and response workflows by integrating SIEM, SOAR, and ITSM platforms via REST API-based playbooks.
 
 **Tech Used:** Wazuh, Shuffle, GLPI, REST APIs
 
 ---
 
-## 📄 Resume
+## Resume
 Resume download is available directly from the portfolio website.
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
 This website is deployed using Vercel.
 Live URL:
@@ -70,7 +70,7 @@ Live URL:
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/yashwi-pandey/
 - GitHub: https://github.com/YashwiP
@@ -78,7 +78,7 @@ Live URL:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Blog section for security research
 - Case study breakdowns of projects

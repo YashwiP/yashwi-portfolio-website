@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# yashwi-portfolio-website
+This is my personal portfolio website built to present my projects, technical skills, and professional background. It includes featured projects, an about section, and contact information. The goal of this website is to create a clean, responsive, and user-friendly platform to showcase my work.
+>>>>>>> 40f53cdf7175849c47b58dcd9f5ec0d801e7317c
